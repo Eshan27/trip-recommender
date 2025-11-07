@@ -1,5 +1,5 @@
+@import '@radix-ui/themes/styles.css';
 @import "tailwindcss";
-@import "@radix-ui/themes/styles.css";
 
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
